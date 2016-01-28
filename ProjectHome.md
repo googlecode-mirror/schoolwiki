@@ -1,0 +1,1 @@
+The SchoolWiki is Highly interactive E-Learning system designed as a web service application based on the MediaWiki platform. This system will allow education providers to provide the courses and lectures through the internet to the online users. Thus the users of the system can be classified to two categories.
